@@ -1,9 +1,11 @@
 ### Hi there 👋
 #### Second Year Computer Engineering Student, NTNU
 
-[LinkedIn](https://www.linkedin.com/in/stianmogen/)
+<p align="left">
+<a href="https://www.linkedin.com/in/stianmogen/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stianmogen&langs_count=5&theme=tokyonight)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stianmogen&theme=tokyonight)
 
 <!--
 **stianmogen/stianmogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
