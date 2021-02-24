@@ -1,5 +1,7 @@
 ### Hi there 👋
+#### Second Year Computer Engineering Student, NTNU
 
+[LinkedIn](https://www.linkedin.com/in/stianmogen/)
 <!--
 **stianmogen/stianmogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
