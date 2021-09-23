@@ -1,9 +1,11 @@
-## ✨Hello there!✨
+## ✨Kok til folket✨
 #### Third Year Computer Engineering Student, NTNU
 
 <p align="left">
 <a href="https://www.linkedin.com/in/stianmogen/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=stianmogen&show_icons=true&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stianmogen&theme=tokyonight)
