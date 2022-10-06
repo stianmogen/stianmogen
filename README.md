@@ -7,7 +7,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stianmogen&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stianmogen&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stianmogen&theme=tokyonight&exclude_repo=sanntid&hide=HTML,jupyter%20notebook)
 
 ##### A bit java-heavy apparently...
 
