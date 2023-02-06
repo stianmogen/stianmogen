@@ -1,8 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-stianmogen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stianmogen/)](https://www.linkedin.com/in/stianmogen/)
+[![Gmail Badge](https://img.shields.io/badge/-stfjae@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stfjae@gmail.com)](mailto:stfjae@gmail.com)
 
-
-<p align="left">
-<a href="https://www.linkedin.com/in/stianmogen/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stianmogen&show_icons=true&theme=dark)
 
