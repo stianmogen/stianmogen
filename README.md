@@ -1,3 +1,4 @@
+[![Stianmogen Badge](https://img.shields.io/badge/-stianmogen-blue?style=for-the-badge&logo=Website&logoColor=purple&link=https://www.stianmogen.no)](https://www.stianmogen.no)
 [![Linkedin Badge](https://img.shields.io/badge/-stianmogen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stianmogen/)](https://www.linkedin.com/in/stianmogen/)
 [![Gmail Badge](https://img.shields.io/badge/-stfjae@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stfjae@gmail.com)](mailto:stfjae@gmail.com)
 
